@@ -7,3 +7,7 @@ To contribute, please read our [contribution guidelines](docs/contributing.md)
 
 trying the to-be-pulled branch
 
+Now I have created a br to deal with the 1st issue . 
+
+This is my 1st time to know about this feature ! 
+
